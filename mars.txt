@@ -3,5 +3,4 @@ Mars
 It's cold, dry, and red. 
 there are robots here. 
 
-but this is not 
-d 
+this is a mistake 
